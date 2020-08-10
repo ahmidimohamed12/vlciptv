@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pt3A1Uyfhl0Uq2cytCWfi3XeOaP50uGIQUKqI6Q+zlQKU3FSUYNep+LzYFgec5oQ0JhRQZ8JiVNFCpbNCbLYw==",
+  "success": true,
+  "projectFilePath": "/Users/ahmidimohamed/Projects/lso/lso.iOS/lso.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmidimohamed/.nuget/packages/libvlcsharp/3.2.0/libvlcsharp.3.2.0.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/libvlcsharp.forms/3.2.0/libvlcsharp.forms.3.2.0.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager/0.4.5/plugin.mediamanager.0.4.5.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/plugin.mediamanager.forms/0.4.5/plugin.mediamanager.forms.0.4.5.nupkg.sha512",
+    "/Users/ahmidimohamed/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
